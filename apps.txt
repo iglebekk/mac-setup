@@ -2,7 +2,7 @@
 
 brew install composer php@8.1 mysql redis
 
-brew install --cask visual-studio-code tiles appcleaner postman slack tableplus microsoft-teams microsoft-word microsoft-powerpoint microsoft-excel transmit Flycut miro dbngin
+brew install --cask visual-studio-code tiles appcleaner postman slack tableplus microsoft-teams microsoft-word microsoft-powerpoint microsoft-excel transmit Flycut miro dbngin google-chrome
 
 Composer
 - Laravel
