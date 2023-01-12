@@ -1,0 +1,15 @@
+Brew
+
+brew install composer php mysql redis
+
+brew install --cask visual-studio-code tiles appcleaner postman slack tableplus microsoft-teams microsoft-word microsoft-powerpoint microsoft-excel transmit Flycut miro dbngin
+
+Composer
+- Laravel
+Composer global require larval/installer
+- Valet
+Composer global require larval/valet
+Valet install
+
+AppStore
+- Keynote
