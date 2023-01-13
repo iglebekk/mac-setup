@@ -6,9 +6,9 @@ brew install --cask visual-studio-code tiles appcleaner postman slack tableplus 
 
 Composer
 - Laravel
-Composer global require larval/installer
+Composer global require laravel/installer
 - Valet
-Composer global require larval/valet
+Composer global require laravel/valet
 Valet install
 
 AppStore
