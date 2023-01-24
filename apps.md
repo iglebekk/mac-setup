@@ -8,7 +8,9 @@
 ```brew install --cask visual-studio-code tiles appcleaner postman slack tableplus microsoft-teams microsoft-word microsoft-powerpoint microsoft-excel transmit Flycut miro dbngin google-chrome```
 
 ### Composer
-`composer global require laravel/installer laravel/valet spatie/phpunit-watcher`  
+`composer global require laravel/installer laravel/valet spatie/phpunit-watcher`
+
+#### Install Valet
 `valet install`
 
 ### AppStore
