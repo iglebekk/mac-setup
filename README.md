@@ -7,4 +7,4 @@ Download `bash.sh` file
 Open terminal, go to `bash.sh` file and run `chmod +x bash.sh`
 
 ## Step 3
-In terminal, run `source bash.sh`
+In terminal, run `source ./bash.sh`
