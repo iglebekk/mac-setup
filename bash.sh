@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
 brew install composer php@8.1 mysql redis npm wget postgresql
 brew doctor
 brew install --cask visual-studio-code tiles appcleaner postman slack tableplus microsoft-teams microsoft-word microsoft-powerpoint microsoft-excel transmit Flycut miro dbngin google-chrome
