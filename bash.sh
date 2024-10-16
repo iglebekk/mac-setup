@@ -14,4 +14,5 @@ cd ~/
 rm -rf .zshrc
 wget 'https://raw.githubusercontent.com/iglebekk/.zshrc/master/.zshrc'
 source ~/.zshrc
+cd ~/ && mkdir Code && cd Code && valet park
 xcode-select --install
