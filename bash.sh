@@ -3,7 +3,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
 source ~/.zshrc
-brew install composer php mysql redis npm wget
+brew install composer php@8.3 mysql redis npm wget
 brew install node@20 --force
 brew doctor
 brew install --cask visual-studio-code appcleaner httpie-desktop slack tableplus microsoft-teams microsoft-word microsoft-powerpoint microsoft-excel transmit Flycut miro dbngin tiles google-chrome chatgpt spotify
